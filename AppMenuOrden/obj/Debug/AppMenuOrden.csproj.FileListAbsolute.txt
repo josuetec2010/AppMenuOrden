@@ -1,0 +1,10 @@
+C:\Users\josuealvarez\source\repos\AppMenuOrden\AppMenuOrden\bin\Debug\AppMenuOrden.exe.config
+C:\Users\josuealvarez\source\repos\AppMenuOrden\AppMenuOrden\bin\Debug\AppMenuOrden.exe
+C:\Users\josuealvarez\source\repos\AppMenuOrden\AppMenuOrden\bin\Debug\AppMenuOrden.pdb
+C:\Users\josuealvarez\source\repos\AppMenuOrden\AppMenuOrden\obj\Debug\AppMenuOrden.csprojAssemblyReference.cache
+C:\Users\josuealvarez\source\repos\AppMenuOrden\AppMenuOrden\obj\Debug\AppMenuOrden.Form1.resources
+C:\Users\josuealvarez\source\repos\AppMenuOrden\AppMenuOrden\obj\Debug\AppMenuOrden.Properties.Resources.resources
+C:\Users\josuealvarez\source\repos\AppMenuOrden\AppMenuOrden\obj\Debug\AppMenuOrden.csproj.GenerateResource.cache
+C:\Users\josuealvarez\source\repos\AppMenuOrden\AppMenuOrden\obj\Debug\AppMenuOrden.csproj.CoreCompileInputs.cache
+C:\Users\josuealvarez\source\repos\AppMenuOrden\AppMenuOrden\obj\Debug\AppMenuOrden.exe
+C:\Users\josuealvarez\source\repos\AppMenuOrden\AppMenuOrden\obj\Debug\AppMenuOrden.pdb
